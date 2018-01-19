@@ -1,2 +1,4 @@
 # microsoftquantumexperiments
-Tests and an implementation of the Microsoft Quantum tutorial
+An implementation of the Microsoft Quantum tutorial
+
+https://docs.microsoft.com/en-gb/quantum/quantum-WriteAQuantumProgram?view=qsharp-preview
